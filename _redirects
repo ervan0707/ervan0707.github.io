@@ -1,0 +1,5 @@
+# Handle 404 errors
+/* /404.html 404
+
+# Optional: Force HTTPS (uncomment if needed)
+# https://ervan.dev/* https://ervan.dev/:splat 301!
